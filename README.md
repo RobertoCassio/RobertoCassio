@@ -29,5 +29,5 @@ Nos últimos meses tenho focado meus estudos em JavaScript, Python e React JS, f
 Sou um ótimo comunicador, e portanto possuo facilidade para trabalhar em equipe, além disso, possuo facilidade para me adaptar e estou sempre buscando me informar sobre as novidades que surgem dentro da área de desenvolvimento. <br>
 Qualquer dúvida não exitem em entrar em contato:
 
-📧 E-mail para contato: rcslino99@gmail.com
+📧 E-mail para contato: rcslino99@gmail.com <br>
 Linkedin: https://www.linkedin.com/in/roberto-cassio/
