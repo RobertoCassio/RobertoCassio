@@ -23,8 +23,11 @@
 </div><br>
 
 ### Sobre Mim💻:
-Meu nome é Roberto Cassio, formado no curso Técnico de Informática pelo SENAI em 2016.
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
-Meu objetivo é construir uma carreira sólida dentro da área da TI, e estou disposto a trabalhar duro para alcança-lo, portanto, e estou procurando por oportunidades como Estagiário ou Jr. para iniciar minha jornada de trabalho dentro da área. 
+Meu nome é Roberto Cassio, formado no curso Técnico de Informática pelo SENAI em 2016. <br>
+Atualmente estou cursando Análise e Desenvolvimento de Sistemas e realizando cursos para aprofundar ainda mais meus conhecimentos.<br>
+Nos últimos meses tenho focado meus estudos em JavaScript, Python e React JS, focando em evoluir ainda mais na área como desenvolvedor, estou constantemente realizando projetos pessoais, que podem ser vistos aqui, em meu  GitHub, para aplicar meus conhecimentos em prática. <br>
+Sou um ótimo comunicador, e portanto possuo facilidade para trabalhar em equipe, além disso, possuo facilidade para me adaptar e estou sempre buscando me informar sobre as novidades que surgem dentro da área de desenvolvimento. <br>
+Qualquer dúvida não exitem em entrar em contato:
 
 📧 E-mail para contato: rcslino99@gmail.com
+Linkedin: https://www.linkedin.com/in/roberto-cassio/
