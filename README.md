@@ -5,6 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoCassio&layout=compact&hide_progress=true&hide=teX)](https://github.com/anuraghazra/github-readme-stats)
 
+[![An image of @robertocassio's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/robertocassio)](https://holopin.io/@robertocassio)
 
 ### Tecnologias que Domino:
 
